@@ -1,4 +1,4 @@
-# OCTMNSIT - Deep learning image classification
+# OCTScans - Deep learning image classification
 The goal of this project is to utilize deep learning for image classification. The program is going to recive as input an eye's image scan and predict a diagnose. The type of scans we are going to be using are the Optical Coherence Tomography (OCT) scans.
 
 # How go over the project
